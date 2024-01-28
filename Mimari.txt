@@ -1,0 +1,5 @@
+1)Clean Architecture
+2)Code First
+3)Mssql
+4)Mediatr, Generic Repository, Cqrs,UnitofWork
+5)Jwt,authenticastion,Authorization
